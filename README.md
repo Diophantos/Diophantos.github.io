@@ -1,2 +1,2 @@
 # Diophantos.github.io
-Demo
+Demo page.
